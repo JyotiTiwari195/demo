@@ -1,4 +1,4 @@
-# demo
+cd# demo
 This is my first repository.
 <br>
-Author - Jyoti Tiwari
+Author - Jyoti Tiwarii
